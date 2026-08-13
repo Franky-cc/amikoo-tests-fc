@@ -1,0 +1,24 @@
+{
+  "name": "amikoo-tests-fc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franky-cc/amikoo-tests-fc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Franky-cc/amikoo-tests-fc/issues"
+  },
+  "homepage": "https://github.com/Franky-cc/amikoo-tests-fc#readme",
+  "devDependencies": {
+    "@muuktest/amikoo-reporter": "^1.2.5",
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0"
+  }
+}
